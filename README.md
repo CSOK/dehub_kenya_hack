@@ -1,2 +1,2 @@
-# dehub_kenya_hack
+# DeHUB Kenya Hack
 Website for the 2018 DeHUB Kenya Hack
