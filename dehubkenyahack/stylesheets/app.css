@@ -1,5 +1,6 @@
 .red {
   color: #FF585D; }
+  /*red - #ee2930*/
 
 .blue {
   color: #74D1EA; }
@@ -385,19 +386,20 @@ a {
   .lead p:nth-child(5) {
     padding-left: 30px; }
 
-.brand {
+.brand:after {
   color: #252C37;
-  text-shadow: 1px -1px 0 #74D1EA, -1px -1px 0 #74D1EA, -1px 1px 0 #74D1EA, 1px 1px 0 #74D1EA; }
+  text-shadow: 1px -1px 0 #74D1EA, -1px -1px 0 #74D1EA, -1px 1px 0 #74D1EA, 1px 1px 0 #74D1EA; 
+content: ' HACK';}
 
 .brand:before {
   color: #252C37;
   text-shadow: 1px -1px 0 #FF585D, -1px -1px 0 #FF585D, -1px 1px 0 #FF585D, 1px 1px 0 #FF585D;
   content: 'DeHUB '; }
 
-.brand:after {
+.brand {
   color: #252C37;
   text-shadow: 1px -1px 0 #D0D6E0, -1px -1px 0 #D0D6E0, -1px 1px 0 #D0D6E0, 1px 1px 0 #D0D6E0;
-  content: ' 2018'; }
+   }
 
 .spinner {
   display: block;
