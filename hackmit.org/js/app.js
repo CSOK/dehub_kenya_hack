@@ -40,7 +40,7 @@
 	// SECTION TOGGLES
 	////////////////////
 
-	var sections = ['register', 'faq', 'speakers', 'sponsors'];
+	var sections = ['', 'faq', 'speakers', ''];
 
 	function hideAllSections() {
 		// Reset buttons to default view and hide main content sections
@@ -128,7 +128,7 @@
     /* Update DOM */ 	
 	function updateCountdown(countdownElement, days) {
         var remainingMessage = " DAYS REMAINING";
-        var launchMessage = "HackMIT is here!";
+        var launchMessage = "DeHUB Kenya Hack is here!";
         
 		if (days == 100) {
             countdownElement.innerHTML = "<a id='innerSpinnerAnchorText' href='http://delorean.codes'>delorean.codes</a>";
