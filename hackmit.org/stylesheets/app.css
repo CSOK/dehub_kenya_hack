@@ -196,7 +196,7 @@ footer {
     background-image: url(../assets/images/border-bottom-left%402x.png); }
     footer .left:after {
       padding-left: 20px;
-      content: 'HACK TO THE FUTURE';
+      content: 'HACK YOUR WAY OUT';
       font-size: 14px;
       letter-spacing: .05em; }
   footer .right {
@@ -392,12 +392,12 @@ a {
 .brand:before {
   color: #252C37;
   text-shadow: 1px -1px 0 #FF585D, -1px -1px 0 #FF585D, -1px 1px 0 #FF585D, 1px 1px 0 #FF585D;
-  content: 'HACK'; }
+  content: 'DeHUB '; }
 
 .brand:after {
   color: #252C37;
   text-shadow: 1px -1px 0 #D0D6E0, -1px -1px 0 #D0D6E0, -1px 1px 0 #D0D6E0, 1px 1px 0 #D0D6E0;
-  content: ' 2017'; }
+  content: ' 2018'; }
 
 .spinner {
   display: block;
