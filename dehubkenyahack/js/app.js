@@ -40,7 +40,7 @@
 	// SECTION TOGGLES
 	////////////////////
 
-	var sections = ['register', 'faq', 'speakers', 'sponsors'];
+	var sections = ['', 'faq', 'speakers', 'sponsors'];
 
 	function hideAllSections() {
 		// Reset buttons to default view and hide main content sections
